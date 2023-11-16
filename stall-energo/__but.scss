@@ -1,0 +1,69 @@
+.but{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 118px;
+}
+.butt{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.butt h1{
+    width: 371px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+.butt1{
+    display: flex;
+}
+.butt1 img{
+    margin-left: 77px;
+
+}
+.butt1 p{
+    color: #000;
+text-align: center;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.butt1{
+    margin-top: 110px;
+   
+}
+.but1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 75px;
+}
+.but12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.but1 button{
+   
+    width: 162px;
+    height: 46px;
+    border-radius: 2px;
+background: #387C43;
+border: 0;
+outline: none;
+color: #FFF;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+}

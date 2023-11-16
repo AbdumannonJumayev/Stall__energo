@@ -1,0 +1,42 @@
+.mox h1{
+   margin-top: 195px; 
+}
+.mox-content{
+    margin-top: 68px;
+}
+.mox1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 51px;
+}
+
+.mox2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 51px;
+    margin-top: 44px;
+}
+.mox01{
+    width: 256px;
+    height: 121px;
+    border-radius: 4px;
+border: 1px solid var(--Gray-4, #BDBDBD);
+opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.mox01 img{
+    margin: 47px 24px 44px 24px;
+}
+.mox01 p{
+    width: 153px;
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 145.687%; /* 20.396px */
+}

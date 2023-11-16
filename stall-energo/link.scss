@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: inherit ;
+
+}
+
+ul, li{
+    list-style: none;
+}
+.container{
+    width: 100%;
+    max-width: 1340px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
+button{
+    cursor: pointer;
+    border: 0;
+    outline: none
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@import"__navbar.scss";
+@import"__hend.scss";
+@import"__header.scss";
+@import"__box.scss";
+@import"__button.scss";
+@import"__but.scss";
+@import"__dog.scss";
+@import"__gap.scss";
+@import"__boy.scss";
+@import"__gerl.scss";
+@import"__mox.scss";
+@import"__max.scss";
+@import"__end.scss";
+@import"__start.scss";
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+.button-content{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.button1{
+    width: 162px;
+    height: 46px;
+    border-radius: 2px;
+    background: #387C43;
+    color: #FFF;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+border: 0;
+outline: none;
+}
+.button2{
+    margin-left: 26px;
+    
+    width: 216px;
+    height: 46px;
+    border-radius: 2px;
+background: #F3AA3C;
+color: #FFF;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-transform: uppercase;
+border: 0;
+outline: none;
+}
